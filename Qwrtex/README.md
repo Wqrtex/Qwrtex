@@ -20,7 +20,7 @@ Usage of Instax for attacking targets without prior mutual consent is illegal. I
 
 ### Usage:
 ```
-git clone https://github.com/Qwrtex/instax.git
+git clone https://github.com/Qwrtex/Qwrtex.git
 cd Qwrtex
 chmod +x Qwrtex.sh
 service tor start
